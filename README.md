@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizkanp
+- 👋 Hi, I’m Rizka Nur Pratama
 - 👀 I’m interested in Data Science
 - 📫 How to reach me https://www.linkedin.com/in/rizkanurpratama/
 
