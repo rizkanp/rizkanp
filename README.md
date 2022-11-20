@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rizka Nur Pratama
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Technology
 - 📫 How to reach me https://www.linkedin.com/in/rizkanurpratama/
 
 <!---
